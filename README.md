@@ -8,14 +8,14 @@ Here I'm Sharing my Project related material
 
 2]Project PPT
 
-3]System Block diagram
+3]System schematic diagram
 
+![System schematic diagram](https://user-images.githubusercontent.com/83265622/135473023-a4d686a7-dda4-4861-aeba-790bdb9ca196.jpeg)
 
+4] System Block diagram
 
-![System Block diagram](https://user-images.githubusercontent.com/83265622/135471880-a951405a-2ca1-43c7-8904-8301c6f73662.jpeg)
+![Block Diagram](https://user-images.githubusercontent.com/83265622/135473137-c527c0aa-ff4b-4319-9411-02eb5f68980e.jpg)
 
-
-
-4]System Flowchart
+5]System Flowchart
 
 ![Flowchart](https://user-images.githubusercontent.com/83265622/135472182-b9c4a43f-4c86-4212-b878-d5bc1347603c.jpeg)
